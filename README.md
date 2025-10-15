@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm Sowmiya!</h1>
+<h1 align="center">👋 Hey there, I'm Harivarsha!</h1>
 <h3 align="center">💻 Passionate Developer | 🌱 Lifelong Learner | ⚡ Tech Explorer</h3>
 
 ---
@@ -10,7 +10,7 @@
 - 💡 Interested in **Web Development**, **React.js**, and **Java**  
 - 🌱 Currently exploring the **MERN Stack** (MongoDB, Express, React, Node.js)  
 - 💬 Ask me about HTML, CSS, JavaScript, React, or Java  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: kit27.csbs21@gamil.com  
 - ⚡ Fun fact: I love creating creative UIs and experimenting with design!
 
 ---
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![Sowmiya’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=srsowmiya&show_icons=true&theme=radical)
+![Harivarsha’s GitHub Stats](https://github.com/Harivarsha09)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srsowmiya&layout=compact&theme=radical)
 
 </div>
