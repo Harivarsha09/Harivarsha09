@@ -49,7 +49,8 @@
 
 <div align="center">
 
-![Harivarsha’s GitHub Stats](https://github.com/Harivarsha09)
+[![Harivarsha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harivarsha09&show_icons=true&theme=radical)](https://github.com/Harivarsha09)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srsowmiya&layout=compact&theme=radical)
 
 </div>
