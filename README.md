@@ -37,8 +37,8 @@
 
 | Project | Description |
 |----------|--------------|
-| 🌾 **Smart Farming Assistant** | A web app that helps farmers with weather-based crop recommendations |
-| 💳 **Expense Tracker App** | A React app to manage daily expenses efficiently |
+| 🌾 **To-Do-list** | A web app using HTML,CSS,Javascript|
+| 💳  **Interior-Desgin-Studio** | A web page using HTML,CSS,Javascript |
 | 🛍️ **Mini Online Shopping Site** | Simple e-commerce site using HTML, CSS, and JS |
 
 > 🔗 *You can pin your favorite repos to the top of your GitHub profile for better visibility!*
@@ -77,11 +77,7 @@
 
 ---
 
-<div align="center">
-  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=srsowmiya.srsowmiya)
 
-</div>
 
 ---
 
