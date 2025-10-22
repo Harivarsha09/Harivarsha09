@@ -39,7 +39,7 @@
 |----------|--------------|
 | 🌾 **To-Do-list** | A web app using HTML,CSS,Javascript|
 | 💳  **Interior-Desgin-Studio** | A web page using HTML,CSS,Javascript |
-| 🛍️ **Mini Online Shopping Site** | Simple e-commerce site using HTML, CSS, and JS |
+| 🛍️ **Persinal-Portfolio** | using HTML and CSS |
 
 > 🔗 *You can pin your favorite repos to the top of your GitHub profile for better visibility!*
 
