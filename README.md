@@ -45,11 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Harivarsha’s GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Harivarsha09&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harivarsha09&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
