@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm an aspiring developer who loves learning new technologies  
+- 🎓 I'm an aspiring developer who loves learning new technologifgghs  
 - 💡 Interested in **Web Development**, **React.js**, and **Java**  
 - 🌱 Currently exploring the **MERN Stack** (MongoDB, Express, React, Node.js)  
 - 💬 Ask me about HTML, CSS, JavaScript, React, or Java  
