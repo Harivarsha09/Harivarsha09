@@ -45,15 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-![Harivarsha’s GitHub Stats](https://github-readme-stats-git-master-harivarsha09.vercel.app/api?username=Harivarsha09&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-master-harivarsha09.vercel.app/api/top-langs/?username=Harivarsha09&layout=compact&theme=tokyonight)
 
 
 
