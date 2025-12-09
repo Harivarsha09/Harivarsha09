@@ -49,9 +49,13 @@
 
 <div align="center">
 
-[![Harivarsha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harivarsha09&show_icons=true&theme=radical)](https://github.com/Harivarsha09)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srsowmiya&layout=compact&theme=radical)
+![Harivarsha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harivarsha09&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harivarsha09&layout=compact&theme=radical)
+
+
 
 </div>
 
