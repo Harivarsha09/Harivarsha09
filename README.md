@@ -32,7 +32,7 @@
 </div>
 
 
-| Education | Description |
+| 🎓 Education | Description |
 |-----------|-------------|
 |  **Bachelor of Technology (B.Tech)** | Currently pursuing B.Tech in Computer Science and Business Systems |
 |  **College** | Studying at KIT-Kalaignarkarunanidhi Institute of Technology  |
