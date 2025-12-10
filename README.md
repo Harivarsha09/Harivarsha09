@@ -6,12 +6,12 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm an aspiring developer who loves learning new technologies  
-- 💡 Interested in **Web Development**, **React.js**, and **Java**  
-- 🌱 Currently exploring the **MERN Stack** (MongoDB, Express, React, Node.js)  
-- 💬 Ask me about HTML, CSS, JavaScript, React, or Java  
-- 📫 Reach me at: kit27.csbs21@gamil.com  
-- ⚡ Fun fact: I love creating creative UIs and experimenting with design!
+-  I'm an aspiring developer who loves learning new technologies  
+-  Interested in **Web Development**, **React.js**, and **Java**  
+-  Currently exploring the **MERN Stack** (MongoDB, Express, React, Node.js)  
+-  Ask me about HTML, CSS, JavaScript, React, or Java  
+-  Reach me at: kit27.csbs21@gamil.com  
+-  Fun fact: I love creating creative UIs and experimenting with design!
 
 ---
 
