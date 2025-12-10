@@ -34,10 +34,10 @@
 
 | Education | Description |
 |-----------|-------------|
-| 🎓 **Bachelor of Technology (B.Tech)** | Currently pursuing B.Tech in **Computer Science and Engineering** |
-| 🏫 **College** | Studying at **Kalasalingam Academy of Research and Education (KARE)** |
-| 📘 **Higher Secondary (HSC)** | Completed at **[Your School Name]** – Computer Science Stream |
-| 📗 **SSLC** | Completed at **[Your School Name]** |
+|  **Bachelor of Technology (B.Tech)** | Currently pursuing B.Tech in **Computer Science and Business Systems** |
+|  **College** | Studying at **KIT-Kalaignarkarunanidhi Institute of Technology (KARE)** |
+|  **Higher Secondary (HSC)** | Completed at **[Kadir Mills Higher Secondary School]** – Computer Science Stream |
+|  **SSLC** | Completed at **[K.M.M Marticulation School ]** |
 
 
 ---
