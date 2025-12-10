@@ -34,10 +34,10 @@
 
 | Education | Description |
 |-----------|-------------|
-|  **Bachelor of Technology (B.Tech)** | Currently pursuing B.Tech in **Computer Science and Business Systems** |
+|  **Bachelor of Technology (B.Tech)** | Currently pursuing B.Tech in Computer Science and Business Systems |
 |  **College** | Studying at **KIT-Kalaignarkarunanidhi Institute of Technology ** |
-|  **Higher Secondary (HSC)** | Completed at **[Kadir Mills Higher Secondary School]** – Computer Science Stream |
-|  **SSLC** | Completed at **K.M.M Marticulation School ** |
+|  **Higher Secondary (HSC)** | Completed at Kadir Mills Higher Secondary School – Computer Science Stream |
+|  **SSLC** | Completed at K.M.M Marticulation School |
 
 
 ---
