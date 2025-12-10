@@ -31,6 +31,15 @@
 
 </div>
 
+
+| Education | Description |
+|-----------|-------------|
+| 🎓 **Bachelor of Technology (B.Tech)** | Currently pursuing B.Tech in **Computer Science and Engineering** |
+| 🏫 **College** | Studying at **Kalasalingam Academy of Research and Education (KARE)** |
+| 📘 **Higher Secondary (HSC)** | Completed at **[Your School Name]** – Computer Science Stream |
+| 📗 **SSLC** | Completed at **[Your School Name]** |
+
+
 ---
 
 ### 🚀 Featured Projects
