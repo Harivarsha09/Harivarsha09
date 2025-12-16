@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm Harivarsha!</h1>
-<h3 align="center">💻 Passionate Developer | 🌱 Lifelong Learner | ⚡ Tech Explorer</h3>
+<h1 align="center"> Hey there, I'm Harivarsha!</h1>
+<h3 align="center"> Passionate Developer |  Lifelong Learner |  Tech Explorer</h3>
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 -  I'm an aspiring developer who loves learning new technologies  
 -  Interested in **Web Development**, **React.js**, and **Java**  
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 </div>
 
 
-|🎓 Education | Description |
+| Education | Description |
 |-----------|-------------|
 |  **Bachelor of Technology (B.Tech)** | Currently pursuing B.Tech in Computer Science and Business Systems |
 |  **College** | Studying at KIT-Kalaignarkarunanidhi Institute of Technology  |
@@ -42,7 +42,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |----------|--------------|
@@ -50,7 +50,7 @@
 |  **Interior-Desgin-Studio** | A web page using HTML,CSS,Javascript |
 |  **Persinal-Portfolio** | using HTML and CSS |
 
-> 🔗 *You can pin your favorite repos to the top of your GitHub profile for better visibility!*
+>  *You can pin your favorite repos to the top of your GitHub profile for better visibility!*
 
 ---
 
@@ -64,7 +64,7 @@
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <div align="center">
 
