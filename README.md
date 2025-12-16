@@ -46,9 +46,9 @@
 
 | Project | Description |
 |----------|--------------|
-| 🌾 **To-Do-list** | A web app using HTML,CSS,Javascript|
-| 💳  **Interior-Desgin-Studio** | A web page using HTML,CSS,Javascript |
-| 🛍️ **Persinal-Portfolio** | using HTML and CSS |
+|  **To-Do-list** | A web app using HTML,CSS,Javascript|
+|  **Interior-Desgin-Studio** | A web page using HTML,CSS,Javascript |
+|  **Persinal-Portfolio** | using HTML and CSS |
 
 > 🔗 *You can pin your favorite repos to the top of your GitHub profile for better visibility!*
 
@@ -77,15 +77,15 @@
 
 ---
 
-### ✨ Fun Zone
+###  Fun Zone
 
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
-> 🎯 “Learn → Build → Repeat”
-
----
-
-
+>  *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+>  “Learn → Build → Repeat”
 
 ---
 
-⭐ **Thanks for visiting my profile! Have a great day! 😊**
+
+
+---
+
+ **Thanks for visiting my profile! Have a great day! **
